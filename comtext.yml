@@ -1,0 +1,9 @@
+vuepress:
+  title: 'ComText'
+  base: '/comtext/'
+
+pages:
+  - readme.md
+  - format.md
+
+books:
