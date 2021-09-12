@@ -52,6 +52,10 @@
 * [marx-engels-gesamtausgabe](https://iisg.amsterdam/en/research/publications/book-series/marx-engels-gesamtausgabe)
 * [Wikipedia](https://en.wikipedia.org/wiki/Marx-Engels-Gesamtausgabe)
 
+### Sokrat Online
+
+Адрес сайта [sokrat.online](http://sokrat.online/index.php).
+
 ## Инструменты
 
 ### Pandoc
