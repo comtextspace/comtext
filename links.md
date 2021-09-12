@@ -44,6 +44,14 @@
 
 Разработка типографических инструментов на Racket.
 
+### MEGA
+
+Собрание сочинений К. Маркса и Ф. Энгельса.
+
+* [mega.bbaw.de](https://mega.bbaw.de/de)
+* [marx-engels-gesamtausgabe](https://iisg.amsterdam/en/research/publications/book-series/marx-engels-gesamtausgabe)
+* [Wikipedia](https://en.wikipedia.org/wiki/Marx-Engels-Gesamtausgabe)
+
 ## Инструменты
 
 ### Pandoc
