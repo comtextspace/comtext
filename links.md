@@ -18,25 +18,25 @@
 
 ### Весь Толстой в один клик
 
-Адрес сайта: [http://readingtolstoy.ru/](readingtolstoy.ru).
+Адрес сайта: [readingtolstoy.ru](http://readingtolstoy.ru/).
 
 Проект по оцифровке произведений Льва Николаевича Тостого от компании ABBYY.
 
 ### Викитека
 
-Адрес сайта: [https://ru.wikisource.org/](Викитека).
+Адрес сайта: [Викитека](https://ru.wikisource.org/).
 
 Используется расширение MediaWiki [Extension:Proofread Page](https://m.mediawiki.org/wiki/Extension:Proofread_Page).
 
 ### Das Scharwerk
 
-Адрес сайта: [https://github.com/scharwerk/scharwerk](github.com/scharwerk/scharwerk).
+Адрес сайта: [github.com/scharwerk/scharwerk](https://github.com/scharwerk/scharwerk).
 
 Проект по оцифровке «Капитала» на украинском языке.
 
 ### marxlib.ru
 
-Адрес сайта: [https://marxlib.ru/](marxlib.ru).
+Адрес сайта: [marxlib.ru](https://marxlib.ru/).
 
 ### practicaltypography.com
 
