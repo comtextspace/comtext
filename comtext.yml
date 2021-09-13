@@ -1,6 +1,6 @@
 vuepress:
   title: 'ComText'
-  base: '/comtext/'
+  base: '/'
 
 pages:
   - readme.md
