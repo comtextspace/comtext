@@ -5,6 +5,7 @@ vuepress:
 pages:
   - readme.md
   - format.md
+  - intro.md
   - links.md
 
 books:
