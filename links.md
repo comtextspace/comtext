@@ -12,6 +12,8 @@
 
 Проект стандарта представления исторических и литературных источников в Интернете.
 
+[Обзор проекта](https://way23.ru/textreview-istnet.html).
+
 ### Project Gutenberg
 
 Адрес сайта: [Project Gutenberg](https://www.gutenberg.org/).
@@ -21,6 +23,8 @@
 Адрес сайта: [readingtolstoy.ru](http://readingtolstoy.ru/).
 
 Проект по оцифровке произведений Льва Николаевича Тостого от компании ABBYY.
+
+[Обзор проекта](https://way23.ru/textreview-tolstoy.html).
 
 ### Викитека
 

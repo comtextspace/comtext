@@ -24,9 +24,7 @@ ComText не описывает реализацию программных си
 
 ## Проекты
 
-* [ПСС Н. Г. Чернышевского ](https://github.com/ZaryaXYZ/chernishevskiy)
-* [Книги по философии и политэкономии](https://github.com/ZaryaXYZ/zarya_books_source)
-* [Другие книги](https://github.com/ZaryaXYZ/books_editing)
+* [books.zarya.xyz](https://books.zarya.xyz/)
 
 
 
